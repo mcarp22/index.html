@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang=en>
+<meta lang=utf-8>
+<head>
+	<title>Tao Te Ching</title>
+</head>
+<body>
+<div class="heading">
+	<h1 align="center">Tao Te Ching</h1>
+	<h3 align="center">Main articles: <a href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te Ching</a>, <a ref="https://en.wikipedia.org/wiki/Tao">Tao</a>, and <a href="https://en.wikipedia.org/wiki/Wu_wei">Wu wei</a></h3>
+
+	<figure>
+		<img 
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ping_Sien_Si_-_016_Lao_zi_%2816135526115%29.jpg/800px-Ping_Sien_Si_-_016_Lao_zi_%2816135526115%29.jpg" 
+			alt="Laozi-Immortal-and-Grand-Master-of-Heaven"
+			width="200"
+			height="400"
+			>
+		<figcaption>Laozi Immortal and Grand Master of Heaven</figcaption>
+	</figure>
+</div>
+<div class="Tao Te Ching">
+	<p>Laozi is traditionally regarded as the author of the <em class="book">Tao Te Ching</em> (<i lang="zh-Hant">Daodejing</i>), though the identity of its author(s) or compiler(s) has been debated throughout history.<sup>[40][41]</sup> It is one of the most significant treatises in Chinese cosmogony. As with most other ancient Chinese philosophers, Laozi often explains his ideas by way of paradox, analogy, appropriation of ancient sayings, repetition, symmetry, rhyme, and rhythm. In fact, the whole book can be read as an analogy – the ruler is the awareness, or self, in meditation and the myriad creatures or empire is the experience of the body, senses and desires.</p>
+
+	<p>The Tao Te Ching, often called simply Laozi after its reputed author, describes the <i lang="zh-Hant">Dao</i> (or <i lang="zh-Hant">Tao</i>) as the source and ideal of all existence: it is unseen, but not transcendent, immensely powerful yet supremely humble, being the root of all things. People have desires and free will (and thus are able to alter their own nature). Many act "unnaturally", upsetting the natural balance of the Tao. The Tao Te Ching intends to lead students to a "return" to their natural state, in harmony with Tao.<sup>[42]</sup> Language and conventional wisdom are critically assessed. Taoism views them as inherently biased and artificial, widely using paradoxes to sharpen the point.<sup>[43]</sup></p>
+
+		<p>Livia Kohn provides an example of how Laozi encouraged a change in approach, or return to "nature", rather than action. Technology may bring about a false sense of progress. The answer provided by Laozi is not the rejection of technology, but instead seeking the calm state of <i lang="zh-Hant">wu wei</i>, free from desires. This relates to many statements by Laozi encouraging rulers to keep their people in "ignorance", or "simple-minded". Some scholars insist this explanation ignores the religious context, and others question it as an apologetic of the philosophical coherence of the text. It would not be unusual political advice if Laozi literally intended to tell rulers to keep their people ignorant. However, some terms in the text, such as "valley spirit" (<i lang="zh-Hant">gushen</i>) and "soul" (<i lang="zh-Hant">po</i>), bear a metaphysical context and cannot be easily reconciled with a purely ethical reading of the work.<sup>[43]</sup></p>
+
+		<p><i lang="zh-Hant">Wu wei (無為)</i>, literally "non-action" or "not acting", is a central concept of the Tao Te Ching. The concept of wu wei is multifaceted, and reflected in the words' multiple meanings, even in English translation; it can mean "not doing anything", "not forcing", "not acting" in the theatrical sense, "creating nothingness", "acting spontaneously", and "flowing with the moment".<sup>[44]</sup></p>
+
+		<p>It is a concept used to explain <i lang="zh-Hant">ziran (自然)</i>, or harmony with the Tao. It includes the concepts that value distinctions are ideological and seeing ambition of all sorts as originating from the same source. Laozi used the term broadly with simplicity and humility as key virtues, often in contrast to selfish action. On a political level, it means avoiding such circumstances as war, harsh laws and heavy taxes. Some Taoists see a connection between wu wei and esoteric practices, such as <i lang="zh-Hant">zuowang</i> "sitting in oblivion" (emptying the mind of bodily awareness and thought) found in the Zhuangzi.<sup>[43]</sup></p>
+</div>
+<div class="Taosim">
+	<h2 align="center">Taoism</h2>
+	<h3 align="center">Main article: <a href="https://en.wikipedia.org/wiki/Taoism" >Taoism</a></h3>
+		<p>Laozi is traditionally regarded as the founder of Taoism, intimately connected with the Tao Te Ching and "primordial" (or "original") Taoism. Popular ("religious") Taoism typically presents the Jade Emperor as the official head deity. Intellectual ("elite") Taoists, such as the Celestial Masters sect, usually present Laozi (Laojun, "Lord Lao") and the Three Pure Ones at the top of the pantheon of deities.<sup>[45][46]</sup></p>
+
+		<p>As a religious figure, he is worshipped under the name "Supreme Old Lord" or <i lang="zh-Hant">Taishang Laojun</i> (<i lang="zh-Hant">太上老君, Tàishàng Lǎojūn</i>)<sup>[47]</sup> and as one of the "Three Pure Ones".</p>
+</div>
+</body>
+<footer align="center">Created for Gymnasium Courses "Modern Wed Design"</footer>
+</html>
